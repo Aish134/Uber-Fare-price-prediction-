@@ -1,5 +1,6 @@
 # Uber Fare Prediction using Machine Learning
 # LIVE PROJECT DEMO
+https://hqbht8umyvdsw5xklefmwt.streamlit.app/
 
 ##  Project Overview
 
